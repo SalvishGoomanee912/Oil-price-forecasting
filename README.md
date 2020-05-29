@@ -1,3 +1,3 @@
-#Oil price forcasting with ARIMA
+# Oil price forcasting with ARIMA
 
 
